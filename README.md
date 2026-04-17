@@ -52,7 +52,7 @@ _(Replace with your real project links later)_
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/bakrelsaued9-hub">
+  <a href="https://github.com/Bakr-Alsayed">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/bak-elsayed-4038173a8/">
